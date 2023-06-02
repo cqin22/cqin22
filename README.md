@@ -1,6 +1,9 @@
-### Hi there 👋
-[![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=cqin22)](https://github.com/anuraghazra/github-readme-stats)
+### Hi, I'm Charles Qin 👋
 
+I love to build cool stuff in my free time - I'm currently working on a new eventhub website!
+
+<!-- [![Charles' GitHub stats](https://github-readme-stats.vercel.app/api?username=cqin22)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 <!--
 **cqin22/cqin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
